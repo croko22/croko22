@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Kevin
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnkPV5eH3TIafD7dw40ucvQ3rh_l_1WEqSmBUZMqsPhikPKCKFrmNUrB5yyH3L-Xv7oXI&usqp=CAU)
 
-<!--
-**Croko22/Croko22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: SVELTE / GRAPHQL / NEXT JS / REACT / JS / HTML / CSS / TAILWIND
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on My personal portfolio 
+- 🌱 I’m currently learning Nextjs and Svelte 
+- 👯 I’m looking to collaborate on Making Obsidian Extensions 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Croko22)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Croko22&show_icons=true)  

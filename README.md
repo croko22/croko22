@@ -7,5 +7,5 @@ Skills:  NEXT JS / REACT / JS / TS / HTML / CSS / TAILWIND / SVELTE / GRAPHQL / 
 - 🌱 I’m currently learning Nextjs and Databases
 - 👯 I’m looking to collaborate on Obsidian Extensions or any kind of proyect 
 
-| <a href="https://github.com/Croko22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Croko22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Croko22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croko22&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/kchambit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kchambit&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/kchambit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchambit&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |

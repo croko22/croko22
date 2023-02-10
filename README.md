@@ -1,6 +1,5 @@
-### Hi, my name is Kevin
+### Hi, my name is Kevin, I'm a Fullstack Developer
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnkPV5eH3TIafD7dw40ucvQ3rh_l_1WEqSmBUZMqsPhikPKCKFrmNUrB5yyH3L-Xv7oXI&usqp=CAU)
-Fullstack developer
 
 ## Programing languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,8 +24,8 @@ Fullstack developer
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 - 🔭 I’m currently working on My personal portfolio 
-- 🌱 I’m currently learning Express and Databases
-- 👯 I’m looking to collaborate on Obsidian Extensions or any kind of proyect 
+- 🌱 I’m currently learning Docker and Astro
+- 👯 I’m looking to collaborate on SaaS side hustle, open source or any kind of stuff 
 
-<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimena-alexandra-ruiz-cerna/) -->
-<!-- [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3FNZMoTsfXlWXPQv_nxN2w) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
+<!-- [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() -->

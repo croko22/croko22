@@ -4,7 +4,7 @@
 ## My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,py,cpp,rust,go,react,nextjs,svelte,astro,tailwindcss,nodejs, nestjs, graphql,prisma,aws,netlify,vercel,docker,linux" alt="TypeScript, Python, C++, Rust, Go, React, Svelte (Kit), Next.js, Astro, TailwindCSS, Node.js, Tauri, Prisma, Docker, Linux">
+    <img src="https://skillicons.dev/icons?i=ts,py,cpp,rust,go,react,nextjs,svelte,astro,tailwindcss,nodejs,nestjs,graphql,prisma,aws,netlify,vercel,docker,linux" alt="TypeScript, Python, C++, Rust, Go, React, Svelte (Kit), Next.js, Astro, TailwindCSS, Node.js, Tauri, Prisma, Docker, Linux">
   </a>
 </p>
 

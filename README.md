@@ -1,4 +1,4 @@
-HIATUS.
+I'M BACK 🤪
 <!---
 <h1 align="center">Hi there, I'm Kevin! 👋</h1>
 <p align="center">Coding for fun, CS student looking for new challenges and open to learn stuff that brings solutions</p>

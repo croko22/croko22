@@ -18,19 +18,18 @@
 <h3>Backend Technologies and Cloud Services</h3>
 <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,graphql,prisma,aws,netlify,vercel,docker,linux" alt="Node.js, Nest.js, GraphQL, Prisma, AWS, Netlify, Vercel, Docker, Linux">
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,bun,prisma,aws,netlify,vercel,docker,linux" alt="Node.js, Hono.js, Prisma, AWS, Netlify, Vercel, Docker, Linux">
   </a>
 </p>
 
+## My stats
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=croko22&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=croko22&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+  </a>
+</p>
 
+## My projects
 
-- 🔭 I’m currently working on a new SaaS 
-
-- 🌱 I’m currently learning aws
-
-- 🎥 I'm also thinking in start a yt channel 
-
-LET'S BUILD SOME STUFF 
- 
-<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
-<!-- [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() -->
+[readera-cites](readera-cites.netlify.app) - Cites and Booknotes visualizer from Readera Backup file
